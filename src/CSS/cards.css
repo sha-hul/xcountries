@@ -1,0 +1,18 @@
+.cardcountry{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
