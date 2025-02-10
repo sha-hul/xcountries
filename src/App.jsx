@@ -13,7 +13,7 @@ const App = () => {
         );
         setCountries(response.data);
       } catch (error) {
-        console.error("Error fetching country data:", error);
+                console.error("Error fetching data:", error);
       }
     };
 
